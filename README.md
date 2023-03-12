@@ -116,8 +116,8 @@ For further guides and references, check out the [official docs](https://zunnzun
 
 ## About
 **License** [MIT](https://choosealicense.com/licenses/mit/)  
-**Author**: Marko Žunić, BSc  
-[GitHub Repository](https://github.com/zunnzunn/vue-ganttastic)  
+**Author**: Robinsondev428
+
 
 
 ## Screenshots
